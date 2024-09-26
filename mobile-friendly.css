@@ -1,7 +1,8 @@
 @media only screen and (min-width: 600px) {
-  background-color: lightblue;
+  body {
   .mobiletable {
     width: 100px;
     background-color: red;
   }
+}
 }
