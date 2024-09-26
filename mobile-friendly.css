@@ -1,10 +1,7 @@
 @media only screen and (min-width: 600px) {
   .mobiletable {
     display: grid;
-    width: 100%;
-    .column {
-      max-width: 20%;
-    }
+    max-width: 20%;
   }
 }
 
