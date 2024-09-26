@@ -5,4 +5,11 @@
     max-width: 30%;
   }
 }
+@media only screen and (min-width: 640px) {
+  .mobiletable {
+    display: grid;
+    background-color:yellow;
+    max-width: 30%;
+  }
+}
 
