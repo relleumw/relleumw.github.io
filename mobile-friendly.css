@@ -1,7 +1,7 @@
 @media only screen and (min-width: 600px) {
   background-color: lightblue;
   .mobiletable {
-    width: 100%;
+    width: 100px;
     background-color: red;
   }
   .mobiletable .column {
