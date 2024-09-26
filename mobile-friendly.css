@@ -3,7 +3,7 @@
     display: grid;
     width: 100%;
     .column {
-      max-width: 10%;
+      max-width: 20%;
     }
   }
 }
