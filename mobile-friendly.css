@@ -2,7 +2,7 @@
   .mobiletable {
     display: grid;
     background-color:red;
-    max-width: 20%;
+    max-width: 30%;
   }
 }
 
