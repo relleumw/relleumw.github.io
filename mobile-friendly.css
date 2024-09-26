@@ -4,7 +4,7 @@
     width: 100%;
     background-color: red;
   }
-  .mobiletable .column {
+  .mobiletable>.column {
     max-width: 10%;
   }
 }
