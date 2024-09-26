@@ -2,7 +2,7 @@
   body {
     background-color: lightblue;
     max-width: 100%;
-  .mobiletable {
+  .mobiletable .table {
     .width: 100%;
     .background-color: red;
   }
