@@ -6,5 +6,8 @@
     .width: 100%;
     .background-color: red;
   }
+    .mobiletable .column {
+      max-width: 10%;
+    }
   }
 }
